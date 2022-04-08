@@ -1,0 +1,12 @@
+body {
+  background-color: aquamarine;
+  color: yellow;
+}
+button {
+  
+  background-color: transparent;
+  color: initial;
+  border:thick;
+  font-size: larger;
+}
+
