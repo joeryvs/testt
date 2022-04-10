@@ -1,0 +1,38 @@
+body {
+  background-color: aquamarine;
+  color:burlywood;
+}
+
+button {
+  display: inline-block;
+  text-align: center;
+  align-items: flex-start;
+  cursor: crosshair;
+  box-sizing: border-box;
+  background-color: rgb(0, 236, 118);
+  border-width: 2px;
+  border-image: initial;
+  width: fit-content;
+  height: 20mm;
+  width: 20mm;
+  text-align: center;
+  border-radius: 30%;
+  margin: 10px;
+}
+
+table {
+  border-collapse: separate;
+  text-indent: initial;
+  border-spacing: 50px;
+}
+
+td {
+  display: revert;
+  vertical-align: bottom;
+}
+
+th {
+  display: table-cell;
+  vertical-align: inherit;
+  font-weight: bold;
+}

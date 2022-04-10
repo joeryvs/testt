@@ -1,0 +1,58 @@
+body {
+  background-color: aquamarine;
+}
+ 
+button {
+  appearance: auto;
+  writing-mode: horizontal-tb !important;
+  font-style: inherit;
+  font-variant-ligatures: additional-ligatures;
+  font-variant-caps: all-petite-caps;
+  font-variant-numeric: stacked-fractions;
+  font-variant-east-asian: jis04;
+  font-weight: 200;
+  font-stretch: ultra-expanded;
+  font-size: 4vmax;
+  font-family: monospace;
+  text-rendering: auto;
+  color: -internal-light-dark(rgb(77, 187, 44), rgb(40, 31, 73));
+  letter-spacing: normal;
+  word-spacing: normal;
+  line-height: normal;
+  text-transform: none;
+  text-indent: 0px;
+  text-shadow: none;
+  display: inline-block;
+  text-align: center;
+  align-items: flex-start;
+  cursor:crosshair;
+  box-sizing: border-box;
+  background-color: rgb(0, 236, 118);
+  padding: 1px 6px;
+  border-width: 2px;
+  border-style: outset;
+  border-image: initial;
+  width: fit-content;
+  height: 20mm;
+  width: 20mm;
+  text-align: center;
+  border-radius: 30%;
+  margin: 10px;
+}
+
+
+p, pre {
+  color: blue;
+  text-align:right;
+
+}
+
+div.special {
+  align-items: center;
+  display: flex;
+}
+
+
+img {
+  align-content: center;
+}

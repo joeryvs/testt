@@ -1,0 +1,29 @@
+body {
+    color: bisque;
+    background-color:var(color);
+}
+
+
+
+body.init {
+    color: blueviolet;
+    background-color: yellowgreen;
+}
+
+body.toggle {
+    color: violet;
+    background-color: coral;
+}
+
+button {
+    background-color: rgba(42, 165, 69, 0.822);
+    color: black;
+    font-family: fantasy;
+    font-size: 10mm;
+    height: fit-content;
+    width:fit-content;
+}
+
+.hel1 {
+    background-color: yellow;
+}
