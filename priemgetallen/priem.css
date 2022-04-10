@@ -1,0 +1,20 @@
+body {
+    background-color: blanchedalmond;
+    color: darkslategray;
+}
+
+button {
+    min-height: 1cm;
+    max-height: 3cm;
+    min-width: 1cm;
+    max-width: 7cm;
+    background-color: burlywood;
+    color: greenyellow;
+    font-size: 30px;
+    padding: 7px;
+    
+}
+
+p {
+    font-size: 19px;
+}
